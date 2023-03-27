@@ -1,8 +1,8 @@
- wa-bot-mikrotik
+***wa-bot-mikrotik***
 
 DEBIAN 11
 =
-***cek posisi direktori, ini akan menentukan installasi service***
+***cek posisi direktori, ini akan menentukan folder service***
 ```
 pwd
 ```
