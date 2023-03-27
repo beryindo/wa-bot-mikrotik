@@ -1,0 +1,13 @@
+[Unit]
+Description=Whats App
+After=syslog.target network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+ExecStart=/root/whatsapp/script.sh
+User=root
+
+[Install]
+WantedBy=multi-user.target
