@@ -2,8 +2,9 @@
 
 DEBIAN 11
 =
-Mikrotik v 6.48.6 - 6.49.7
-ROS 7 harus dioprek lagi, header value nya.
+Mikrotik v 6.48.6 - 6.49.7.
+
+untuk ROS 7 harus dioprek lagi, header value nya.
 
 
 ***cek posisi direktori, ini akan menentukan folder service***
