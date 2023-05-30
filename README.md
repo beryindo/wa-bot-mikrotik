@@ -109,3 +109,11 @@ http://ipaddress:8069
 :local lastdic [/ppp secret get [find name=$nama] last-disconnect-reason];
 /tool fetch http-header-field="content-type: application/x-www-form-urlencoded" http-method=post http-data="number=08123456789&message=\E2\9D\8C PPPoE TERPUTUS !!!%0AUser: $user%0ANama Pelanggan: $comment%0AService: $service %0ALocal Address: $local%0ARemote Address: $remote%0AProfile: $profile%0ALast Logout: $last%0ALast Caller ID: $lastcall %0ALast Disconnect Reason: $lastdic" url="http://ipaddress:8069/send-message" keep-result=no
 ```
+
+
+
+
+Tools Whatsapp sender massal
+```
+https://drive.google.com/file/d/1mLe4ZVFRL_a-OKWxqqHzqtkc8PQwG8c0/view?usp=drive_link
+```
