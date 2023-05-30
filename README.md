@@ -9,11 +9,8 @@ untuk ROS 7 harus dioprek lagi, header value nya.
 
 ***cek posisi direktori, ini akan menentukan folder service***
 ```
-pwd
+cd /root
 ```
-/root
-
-
 ```
 apt update && apt upgrade -y
 ```
