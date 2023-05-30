@@ -1,6 +1,6 @@
 ***wa-bot-mikrotik***
 
-DEBIAN 11
+VPS DEBIAN 11
 =
 Mikrotik v 6.48.6 - 6.49.7.
 
@@ -11,6 +11,9 @@ untuk ROS 7 harus dioprek lagi, header value nya.
 ```
 pwd
 ```
+/root
+
+
 ```
 apt update && apt upgrade -y
 ```
